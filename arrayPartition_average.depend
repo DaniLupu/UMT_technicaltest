@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680636512 source:d:\codeblocks\savedirectory\a\arraypartition_average\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
